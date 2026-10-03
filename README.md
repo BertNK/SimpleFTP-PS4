@@ -13,7 +13,7 @@ The server accepts anonymous connections and exposes the PS4 filesystem from `/`
 
 ## Use it
 
-1. Install and launch the PKG on a PS4 that can run homebrew with GoldHEN.
+1. Install and launch the PKG ([Download here](https://github.com/BertNK/SimpleFTP-PS4/releases/tag/Release)) on a PS4 that can run homebrew with GoldHEN.
 2. Connect the PS4 and PC to the same router. Note the PS4 IP address shown in the app.
 3. In FileZilla, connect with **Host** set to the PS4 IP, **Port** `2122`, **Protocol** FTP, and **User** `anonymous`. Passive or active transfer mode is supported.
 4. Drag files between the PC and PS4 panes. To install a transferred homebrew PKG, use the package installer available in your PS4 homebrew setup.
